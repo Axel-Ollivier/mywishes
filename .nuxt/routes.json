@@ -1,0 +1,23 @@
+[
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "/home/piou/Development/Ynov/WebServices/WishList/mywishes/pages/account.vue",
+    "chunkName": "pages/account",
+    "_name": "_be1c0c5a"
+  },
+  {
+    "name": "userWishes",
+    "path": "/userWishes",
+    "component": "/home/piou/Development/Ynov/WebServices/WishList/mywishes/pages/userWishes.vue",
+    "chunkName": "pages/userWishes",
+    "_name": "_a89430ec"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/piou/Development/Ynov/WebServices/WishList/mywishes/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_309d4978"
+  }
+]

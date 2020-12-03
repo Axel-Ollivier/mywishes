@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/userWishes", {data:[{}],fetch:[],mutations:void 0});
